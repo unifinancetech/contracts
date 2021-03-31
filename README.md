@@ -1,6 +1,6 @@
 # code
 
-smart contracts of unifinancetech
+smart contracts of unifinancetech.
 
 # structure
 
